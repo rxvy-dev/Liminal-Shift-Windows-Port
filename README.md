@@ -1,6 +1,6 @@
 # BELOW ROUTE 9 — Windows
 
-A first-person Backrooms horror game, shot on a 1998 camcorder. **Current version: 2.12.6**
+A first-person Backrooms horror game, shot on a 1998 camcorder. **Current version: 2.12.7**
 
 ## Download and play
 
