@@ -5,7 +5,6 @@ A first-person Backrooms horror game, shot on a 1998 camcorder. **Current versio
 ## Download and play
 
 - **[Below-Route-9-Setup.exe](https://github.com/rxvy-dev/below-route-9-windows/raw/refs/heads/main/Below-Route-9-Setup.exe)**: the installer. Run it and follow the wizard. It installs for your user only (no admin prompt) and adds Start Menu and desktop shortcuts.
-- **[Below-Route-9-windows-portable.zip](https://github.com/rxvy-dev/below-route-9-windows/raw/refs/heads/main/Below-Route-9-windows-portable.zip)**: no install. Unzip it anywhere and run `below-route-9.exe` (keep the `textures` folder next to it).
 
 Windows SmartScreen may say "Windows protected your PC" because the game isn't code-signed. Click **More info**, then **Run anyway**.
 
